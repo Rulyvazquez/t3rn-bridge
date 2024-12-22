@@ -25,8 +25,8 @@ T3rn Bridge Bot is an automated multi-chain bridge script that simplifies and au
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vinskasenda/TirnBot.git
-    cd TirnBot
+    git clone https://github.com/zerodropdao/t3rn-bridge
+    cd T3rn-bridge
     ```
 
 2. Install the required dependencies:
