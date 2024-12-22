@@ -37,7 +37,7 @@ T3rn Bridge Bot is an automated multi-chain bridge script that simplifies and au
 3. Configure your bot:
     - Replace the private keys, addresses, and labels in the `setup.py` file with your own.
     - Set the network RPC configurations in `set_rpc.py`.
-    - Update bridge data in `data.py` to match your requirements.
+    - Update the bridge data in `data.py`**: Perform manual swaps on the network to obtain HEX data. Once successful, use the transaction hash to extract data. Refer to the ![guide screenshot](https://github.com/zerodropdao/t3rn-bridge/blob/main/t3rnguide.png)
 
 ---
 
